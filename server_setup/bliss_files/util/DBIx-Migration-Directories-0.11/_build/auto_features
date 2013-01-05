@@ -1,0 +1,9 @@
+do{ my $x = {
+       'mysql' => {
+                    'requires' => {
+                                    'DBD::mysql' => '1.1211'
+                                  },
+                    'description' => 'MySQL Support'
+                  }
+     };
+$x; }

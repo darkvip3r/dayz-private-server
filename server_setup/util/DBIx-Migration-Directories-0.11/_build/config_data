@@ -1,0 +1,4 @@
+do{ my $x = {
+       'schema_dir' => '\\share\\schemas'
+     };
+$x; }

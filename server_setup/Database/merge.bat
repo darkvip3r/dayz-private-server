@@ -1,0 +1,1 @@
+copy /a sql\*.sql bliss.sql

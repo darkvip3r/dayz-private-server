@@ -1,0 +1,1 @@
+select world_vehicle_id from instance_vehicle;

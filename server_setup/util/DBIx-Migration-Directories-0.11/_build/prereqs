@@ -1,0 +1,15 @@
+do{ my $x = {
+       'build_requires' => {
+                             'Data::Dumper' => '2.10',
+                             'Module::Build' => '0.27_03'
+                           },
+       'conflicts' => {},
+       'requires' => {
+                       'DBIx::Transaction' => '0.005',
+                       'Pod::Usage' => '1',
+                       'File::Basename::Object' => '0.01',
+                       'DBI' => '1.41'
+                     },
+       'recommends' => {}
+     };
+$x; }
