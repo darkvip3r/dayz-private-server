@@ -41,6 +41,4 @@ Update
 2. Backup your config files in Sanctuary folder
 3. Copy and overwrite all files into Arma 2 folder
 
-Donate
-=
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VKANP262UFEUJ
+
