@@ -1,0 +1,1 @@
+"Expansion\beta\arma2oaserver.exe" -port=2305 "-config=dayz_4.takistan\config.cfg" "-cfg=dayz_4.takistan\basic.cfg" "-profiles=dayz_4.takistan" -name=Bliss "-mod=@dayztakistan;@bliss_4.takistan" -noPause -noSound -cpuCount=2 -exThreads=1 -maxMem=2048

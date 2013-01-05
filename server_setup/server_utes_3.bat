@@ -1,0 +1,1 @@
+"Expansion\beta\arma2oaserver.exe" -port=2304 "-config=dayz_3.utes\config.cfg" "-cfg=dayz_3.utes\basic.cfg" "-profiles=dayz_3.utes" -name=Bliss "-mod=@dayz;@bliss_3.utes" -noPause -noSound -cpuCount=2 -exThreads=1 -maxMem=2048

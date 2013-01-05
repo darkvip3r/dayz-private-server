@@ -1,0 +1,1 @@
+"Expansion\beta\arma2oaserver.exe" -port=2308 "-config=dayz_7.zargabad\config.cfg" "-cfg=dayz_7.zargabad\basic.cfg" "-profiles=dayz_7.zargabad" -name=Bliss "-mod=@dayzzargabad;@bliss_7.zargabad" -noPause -noSound -cpuCount=2 -exThreads=1 -maxMem=2048

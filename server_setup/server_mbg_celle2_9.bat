@@ -1,0 +1,1 @@
+"Expansion\beta\arma2oaserver.exe" -port=2310 "-config=dayz_9.mbg_celle2\config.cfg" "-cfg=dayz_9.mbg_celle2\basic.cfg" "-profiles=dayz_9.mbg_celle2" -name=Bliss "-mod=@dayz_celle;@mbg_celle;@bliss_9.mbg_celle2" -noPause -noSound -cpuCount=2 -exThreads=1 -maxMem=2048

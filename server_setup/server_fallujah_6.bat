@@ -1,0 +1,1 @@
+"Expansion\beta\arma2oaserver.exe" -port=2307 "-config=dayz_6.fallujah\config.cfg" "-cfg=dayz_6.fallujah\basic.cfg" "-profiles=dayz_6.fallujah" -name=Bliss "-mod=@dayzfallujah;@bliss_6.fallujah" -noPause -noSound -cpuCount=2 -exThreads=1 -maxMem=2048

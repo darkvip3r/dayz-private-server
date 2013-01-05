@@ -1,0 +1,1 @@
+"Expansion\beta\arma2oaserver.exe" -port=2303 "-config=dayz_2.lingor\config.cfg" "-cfg=dayz_2.lingor\basic.cfg" "-profiles=dayz_2.lingor" -name=Bliss "-mod=@dayzlingor;@bliss_2.lingor" -noPause -noSound -cpuCount=2 -exThreads=1 -maxMem=2048

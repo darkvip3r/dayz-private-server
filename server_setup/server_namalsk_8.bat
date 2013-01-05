@@ -1,0 +1,1 @@
+"Expansion\beta\arma2oaserver.exe" -port=2309 "-config=dayz_8.namalsk\config.cfg" "-cfg=dayz_8.namalsk\basic.cfg" "-profiles=dayz_8.namalsk" -name=Bliss "-mod=@dayz;@dayz_namalsk;@bliss_8.namalsk" -noPause -noSound -cpuCount=2 -exThreads=1 -maxMem=2048
